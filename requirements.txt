@@ -1,0 +1,25 @@
+langchain
+langchain_community
+langchain_openai
+python-dotenv
+streamlit
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+unstructured
+bitsandbytes
+accelerate
+transformers
+datasets
+loralib
+sentencepiece
+pypdf
+sentence_transformers
+tokenizers
+xformers
+faiss-cpu
+flask
+
+# pip uninstall torch torchvision torchaudio -y
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
