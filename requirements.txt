@@ -20,6 +20,6 @@ tokenizers
 xformers
 faiss-cpu
 flask
-
+-e .
 # pip uninstall torch torchvision torchaudio -y
 # torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
